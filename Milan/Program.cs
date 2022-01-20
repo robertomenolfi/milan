@@ -10,6 +10,21 @@ namespace Milan
     {
         static void Main(string[] args)
         {
+
+            // aggiungere una proprieta al calciatore che mi torni l'eta' del calciatore se ho fornito una data di nascita
+            // aiutino: proprieta data di nascita e proprieta in sola lettura eta'
+            // se vuoi farlo piu' difficle, eta' e data di nascita sono nullable (quindi possono essere nulli) e se
+            // non fornisco la data di nascita anche eta' e nullo.
+            // il ciclo in fondo, dopo il numero di maglia deve mostrare anche le eta' dove hai messo la data di nascita
+
+
+
+
+            //var giocatore = new GiocatoreDelMilan();
+            // il giocatore HA 
+
+
+
             //Console.WriteLine("Hello World!");
 
             // ciclare una lista dei giocatori del milan e scrivere nome e numero di maglia
